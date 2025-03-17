@@ -4,7 +4,7 @@ const UserDetail = ({ user }) => {
   const router = useRouter();
 
   if (router.isFallback) {
-    return <p>Please Wait...</p>;
+    return <p>Memuat mohon tunggu...</p>;
   }
 
   return (
