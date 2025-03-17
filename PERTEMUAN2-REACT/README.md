@@ -1,3 +1,10 @@
+# Pertemuan 2 React
+
+Pada pertemuan kedua ini, kami mempelajari dasar-dasar React, termasuk dalam pembuatan komponen, penggunaan JSX, props, dan state. serta membangun aplikasi sederhana menggunakan konsep dasar tersebut.
+
+#### Code:
+
+```js
 import React, { useState } from "react";
 import Counter from "./Counter";
 import Greeting from "./Greetings";
@@ -88,3 +95,8 @@ function App() {
 }
 
 export default App;
+```
+
+#### Hasil
+
+![alt text](Images/hasil.png)
